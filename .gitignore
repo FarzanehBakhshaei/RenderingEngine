@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Visual studio files
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.vcxproj.filters
+*.vcxproj.user
